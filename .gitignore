@@ -1,0 +1,17 @@
+node_modules
+.pnpm-store
+.turbo
+.env
+.env.*
+!.env.example
+dist
+build
+coverage
+.next
+expo-env.d.ts
+apps/mobile/.expo
+apps/mobile/dist
+apps/mobile/node_modules
+apps/web/node_modules
+apps/api/node_modules
+*.log
