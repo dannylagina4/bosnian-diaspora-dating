@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Bosnian Diaspora Dating",
+    "slug": "bosnian-diaspora-dating",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
